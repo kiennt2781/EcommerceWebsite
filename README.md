@@ -1,2 +1,2 @@
 # EcommerceWebsite
-## JSP, Servlet, MySQL
+## Sneaker Store website: JSP, Servlet, MySQL
